@@ -6,7 +6,6 @@ example to submit form with node js and express
 - npm install body-parser --save
 - node app.js
 
-
 - npm i --save-dev nodemon
 - package.json 
     - "scripts": {
