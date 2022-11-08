@@ -1,0 +1,23 @@
+{
+  "name": "express-form",
+  "version": "1.0.0",
+  "description": "example to submit form with node js and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinamohamed85/node-express-form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinamohamed85/node-express-form/issues"
+  },
+  "homepage": "https://github.com/dinamohamed85/node-express-form#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
