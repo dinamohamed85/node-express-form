@@ -3,6 +3,9 @@ example to submit form with node js and express
 
 - npm init -y
 - npm i express
+- node app.js
+
+
 - npm i --save-dev nodemon
 - package.json 
     - "scripts": {
